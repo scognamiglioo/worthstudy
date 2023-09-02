@@ -16,7 +16,7 @@ o objetivo do **worthstudy** é auxiliar a organização de tarefas durante o di
 | `TASK` | `OK` | NADA
 | `LOGIN` | `NÃO` | IMPLEMENTAR O FIREBASE FUNCIONAL
 
-
+## 
 #### TASKS 
 
 funcionalidade: conta com ferramentas de inclusão e deletar as tarefas. conta com interação do teclado do usuário e botões todos funcionais; 
